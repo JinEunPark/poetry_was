@@ -1,0 +1,4 @@
+rootProject.name = 'poetry_was'
+include(':poetry_was_common')
+include(':poetry_was_main')
+include(':poetry_was_shop')
